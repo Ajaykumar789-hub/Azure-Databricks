@@ -1,0 +1,13 @@
+
+#THIS  WILL SHOW US TEMPORARY VIEW 
+
+%sql
+CREATE TEMPORARY VIEW NAMEOFVIEW
+USING CSV
+OPTIONS(PATH "/databricks-datasets/rdataset.data-001/diamonds.csv",header "true", mode "FAILFAST")
+
+
+#TO READ DATA FROM ABOVE VIEW
+
+%SQL
+SELECT * FROM NAMEOFVIEW
