@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Delta-Engine"
   ],
+  "SelectedNode": "\\Delta-Engine\\Read-data-from-csv.sql",
   "PreviewInSolutionExplorer": false
 }
