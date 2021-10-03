@@ -1,6 +1,6 @@
 
 
- #there two alogarithams availabole in databricks to optimize our queries
+ #there two alogarithams available in databricks to optimize our queries
  #1.bin-packing(used to merger small files with large. OPTIMIZE is command used for this)
  #2.Z-Ordering
 
