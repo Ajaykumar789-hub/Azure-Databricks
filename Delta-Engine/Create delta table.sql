@@ -1,5 +1,5 @@
 
-#delta lake tables are stored in metastore, which is where the path of thable is saved.
+#delta lake tables are stored in metastore, which is where the path of table is saved.
 
 #different types to create delta table in azure databricks
 #1.using sql
